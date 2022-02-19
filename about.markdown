@@ -4,15 +4,28 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Orest, aka trsk & otrsk. I’m a computer scientist. Now excited about crypto.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- Co-founded [Knit](https://knitvideo.com){:target="\_blank"}. Knit's app lets you tighten your organisation through video-based networking events.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+- Co-founded [Cara Care](https://cara.care){:target="\_blank"}. Cara empowers individuals suffering from chronic digestive diseases to live a better life.
+
+I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dance.
+
+## Web
+
+### Social
+
+- LinkedIn: [https://www.linkedin.com/in/otrsk](https://www.linkedin.com/in/otrsk){:target="\_blank"}
+- Twitter: [https://twitter.com/OrestTa](https://twitter.com/OrestTa){:target="\_blank"}
+
+### Coding
+
+- GitHub: [https://github.com/otrsk](https://github.com/otrsk){:target="\_blank"}
+- Gnome: [https://extensions.gnome.org/accounts/profile/trsk](https://extensions.gnome.org/accounts/profile/trsk){:target="\_blank"}
+- [LEGACY] Linux/FOSS Blog: [http://blog.tarasiuk.me](http://blog.tarasiuk.me){:target="\_blank"}
 
 
-[jekyll-organization]: https://github.com/jekyll
+## GnuPG
+
+Fingerprint (email): `9D30 2D94 35C5 5FB2 DE4C 33B8 F42D FC4D B196 6F25`
