@@ -10,6 +10,8 @@ My name is Orest, aka trsk & otrsk. I’m a computer scientist. Now excited abou
 
 - Co-founded [Cara Care](https://cara.care){:target="\_blank"}. Cara empowers individuals suffering from chronic digestive diseases to live a better life.
 
+- Running [Dessert Ventures](https://dessertventures.com){:target="\_blank"}. Dessert Ventures provides freelance tech consulting and product development services.
+
 I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dance.
 
 ## Web
