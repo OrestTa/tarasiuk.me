@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: About Orest
+permalink: /about-orest
 ---
 
 My name is Orest, aka trsk & otrsk. I’m a computer scientist. Now excited about crypto.
