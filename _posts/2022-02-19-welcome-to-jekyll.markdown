@@ -6,4 +6,4 @@ categories: general
 author: 
 ---
 
-This is the home page of [Orest](/about-orest), [Hubert](/about-hubert), and [Igor](/about-igor).
+This is the home page of [Orest Tarasiuk](/about-orest), [Hubert Tarasiuk](/about-hubert), and [Igor Tarasiuk](/about-igor).
