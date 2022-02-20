@@ -35,4 +35,4 @@ I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dan
 
 ## GnuPG
 
-Fingerprint (email): `9D30 2D94 35C5 5FB2 DE4C 33B8 F42D FC4D B196 6F25`
+[Pubkey](/pubkey-orest.asc), fingerprint: `9D30 2D94 35C5 5FB2 DE4C 33B8 F42D FC4D B196 6F25`
