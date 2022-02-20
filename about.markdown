@@ -14,6 +14,7 @@ My name is Orest, aka trsk & otrsk. I’m a computer scientist. Now excited abou
 
 I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dance.
 
+
 ## Web
 
 ### Social
@@ -26,6 +27,10 @@ I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dan
 - GitHub: [https://github.com/otrsk](https://github.com/otrsk){:target="\_blank"}
 - Gnome: [https://extensions.gnome.org/accounts/profile/trsk](https://extensions.gnome.org/accounts/profile/trsk){:target="\_blank"}
 - [LEGACY] Linux/FOSS Blog: [http://blog.tarasiuk.me](http://blog.tarasiuk.me){:target="\_blank"}
+
+### Further Projects
+
+- Mur Myśli: [https://mm.tarasiuk.me](https://mm.tarasiuk.me){:target="\_blank"}
 
 
 ## GnuPG
