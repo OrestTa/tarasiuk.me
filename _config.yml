@@ -24,6 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Orest (trsk/otrsk), Hubert, Igor
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tarasiuk.me" # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl: "tarasiuk.me"
 twitter_username: OrestTa
 github_username: otrsk
 
