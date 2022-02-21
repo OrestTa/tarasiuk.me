@@ -19,7 +19,7 @@ I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dan
 
 ### Social
 
-- LinkedIn: [https://www.linkedin.com/in/otrsk](https://www.linkedin.com/in/otrsk){:target="\_blank"}
+- LinkedIn: [https://linkedin.com/in/otrsk](https://linkedin.com/in/otrsk){:target="\_blank"}
 - Twitter: [https://twitter.com/OrestTa](https://twitter.com/OrestTa){:target="\_blank"}
 
 ### Coding
