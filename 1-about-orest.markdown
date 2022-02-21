@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Orest
+title: Orest Tarasiuk
 permalink: /about-orest
 ---
 
