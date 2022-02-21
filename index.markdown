@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+This is the home page of [Orest Tarasiuk](/about-orest), [Hubert Tarasiuk](/about-hubert), and [Igor Tarasiuk](/about-igor).
