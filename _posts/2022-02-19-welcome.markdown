@@ -3,7 +3,7 @@ layout: post
 title:  "Hello, world!"
 date:   2022-02-19 14:55:39 +0100
 categories: general
-author: 
+author: orest
 ---
 
 This is the home page of [Orest Tarasiuk](/about-orest), [Hubert Tarasiuk](/about-hubert), and [Igor Tarasiuk](/about-igor).
