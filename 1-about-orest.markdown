@@ -29,7 +29,7 @@ I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dan
 
 ### Further Projects
 
-- Trsk's Linuxen (old Linux blog): [http://blog.tarasiuk.me](http://blog.tarasiuk.me){:target="\_blank"}
+- Trsk's Linuxen (old Linux blog): [https://trskslinuxen.tarasiuk.me](https://trskslinuxen.tarasiuk.me){:target="\_blank"}
 - Mur Myśli (old personal blog): [https://mm.tarasiuk.me](https://mm.tarasiuk.me){:target="\_blank"}
 
 
