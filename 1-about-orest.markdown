@@ -32,7 +32,8 @@ I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dan
 - Trsk's Linuxen (~2011 Linux blog): [https://trskslinuxen.tarasiuk.me](https://trskslinuxen.tarasiuk.me){:target="_blank"}
 - Mur Myśli (~2007 personal blog): [https://murmysli.tarasiuk.me](https://murmysli.tarasiuk.me){:target="_blank"}
 
-### Speaker
+
+## Speaker
 
 - Berlin Tech
 - CDTM
