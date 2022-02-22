@@ -8,4 +8,4 @@ My name is Igor.
 
 ## Web
 
-- GitHub: [https://github.com/igortrsk](https://github.com/igortrsk/){:target="\_blank"}
+- GitHub: [https://github.com/igortrsk](https://github.com/igortrsk/){:target="_blank"}
