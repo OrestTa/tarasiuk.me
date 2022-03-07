@@ -16,3 +16,7 @@ a {
   -webkit-hyphens: auto;
   hyphens: auto;
 }
+
+.site-header {
+  border-top: 0 !important;
+}
