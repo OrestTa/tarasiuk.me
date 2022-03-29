@@ -8,9 +8,9 @@ My name is Orest. I’m a computer scientist working in Web3.
 
 - Co-founded [Cara Care](https://cara.care){:target="_blank"}. Cara empowers individuals suffering from chronic digestive diseases to live a better life.
 
-- Co-founded [Knit](https://knitvideo.com){:target="_blank"}. Knit's app lets you tighten your organisation through video-based networking events.
+- Co-founded [Knit](https://knitvideo.com/?ref=tarasiuk.me/about-orest){:target="_blank"}. Knit's app lets you tighten your organisation through video-based networking events.
 
-- Running [Dessert Ventures](https://dessertventures.com){:target="_blank"}. Dessert Ventures provides freelance tech consulting and product development services.
+- Running [Dessert Ventures](https://dessertventures.com/?ref=tarasiuk.me/about-orest){:target="_blank"}. Dessert Ventures provides freelance tech consulting and product development services.
 
 I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dance.
 
