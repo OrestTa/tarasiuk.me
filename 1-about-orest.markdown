@@ -4,7 +4,7 @@ title: Orest Tarasiuk
 permalink: /about-orest
 ---
 
-My name is Orest. I’m a computer scientist working in Web3.
+My name is Orest. I’m a computer scientist working in crypto.
 
 - Co-founded [Cara Care](https://cara.care){:target="_blank"}. Cara empowers individuals suffering from chronic digestive diseases to live a better life.
 
@@ -17,13 +17,13 @@ I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dan
 
 ## Web
 
-- LinkedIn: [https://linkedin.com/in/otrsk](https://linkedin.com/in/otrsk){:target="_blank"}
 - Twitter: [https://twitter.com/OrestTa](https://twitter.com/OrestTa){:target="_blank"}
 - GitHub: [https://github.com/otrsk](https://github.com/otrsk){:target="_blank"}
-- Gnome: [https://extensions.gnome.org/accounts/profile/trsk](https://extensions.gnome.org/accounts/profile/trsk){:target="_blank"}
+- LinkedIn: [https://linkedin.com/in/otrsk](https://linkedin.com/in/otrsk){:target="_blank"}
 
 ## Further Projects
 
+- Gnome: [https://extensions.gnome.org/accounts/profile/trsk](https://extensions.gnome.org/accounts/profile/trsk){:target="_blank"}
 - Trsk's Linuxen (~2011 Linux blog): [https://trskslinuxen.tarasiuk.me](https://trskslinuxen.tarasiuk.me){:target="_blank"}
 - Mur Myśli (~2007 personal blog): [https://murmysli.tarasiuk.me](https://murmysli.tarasiuk.me){:target="_blank"}
 
