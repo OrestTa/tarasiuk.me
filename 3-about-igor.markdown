@@ -9,4 +9,4 @@ My name is Igor. Fun fact: I'm doing my baccalaureate now.
 ## Web
 
 - GitHub: [https://github.com/igortrsk](https://github.com/igortrsk/){:target="_blank"}
-- Discord: ``
+- Discord: `Erson#1069`
