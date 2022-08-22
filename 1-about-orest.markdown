@@ -22,7 +22,7 @@ I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dan
 - GitHub: [https://github.com/otrsk](https://github.com/otrsk){:target="_blank"}
 - Twitter: [https://twitter.com/OrestTa](https://twitter.com/OrestTa){:target="_blank"}
 - LinkedIn: [https://linkedin.com/in/otrsk](https://linkedin.com/in/otrsk){:target="_blank"}
-- Discord: `Orest#3489`
+- Discord: `OrestTa#3489`
 
 ## Further Projects
 
