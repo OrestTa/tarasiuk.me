@@ -19,9 +19,9 @@ I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dan
 
 ## Web
 
-- GitHub: [https://github.com/otrsk](https://github.com/otrsk){:target="_blank"}
+- GitHub: [https://github.com/OrestTa](https://github.com/OrestTa){:target="_blank"}
 - Twitter: [https://twitter.com/OrestTa](https://twitter.com/OrestTa){:target="_blank"}
-- LinkedIn: [https://linkedin.com/in/otrsk](https://linkedin.com/in/otrsk){:target="_blank"}
+- LinkedIn: [https://linkedin.com/in/OrestTa](https://linkedin.com/in/OrestTa){:target="_blank"}
 - Discord: `OrestTa#3489`
 
 ## Further Projects
@@ -31,8 +31,9 @@ I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dan
 - Mur Myśli (~2007 personal blog): [https://murmysli.tarasiuk.me](https://murmysli.tarasiuk.me){:target="_blank"}
 
 
-## Speaker
+## Speaking
 
+- ETHWarsaw
 - Berlin Tech
 - CDTM
 
