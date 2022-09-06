@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Tarasiuk Brothers
+title: Tarasiuk
 email: "[firstNameAt]tarasiuk.me"
 description: >- # this means to ignore newlines until "baseurl:"
   Orest (trsk/otrsk), Hubert, Igor
@@ -27,7 +27,7 @@ url: "https://tarasiuk.me" # the base hostname & protocol for your site, e.g. ht
 enforce_ssl: "tarasiuk.me"
 google_analytics: "G-5ZVCN1GBFF"
 twitter_username: OrestTa
-github_username: otrsk
+github_username: OrestTa
 
 # Build settings
 theme: minima
