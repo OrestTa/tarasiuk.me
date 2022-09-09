@@ -28,13 +28,13 @@ I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dan
 
 ## Web
 
-- GitHub: [https://github.com/OrestTa](https://github.com/OrestTa){:target="_blank"}
 - Twitter: [https://twitter.com/OrestTa](https://twitter.com/OrestTa){:target="_blank"}
+- GitHub: [https://github.com/OrestTa](https://github.com/OrestTa){:target="_blank"}
 - LinkedIn: [https://linkedin.com/in/OrestTa](https://linkedin.com/in/OrestTa){:target="_blank"}
 - Discord: `OrestTa#3489`
 
 
-## Further Projects
+## Project Archive
 
 - Gnome: [https://extensions.gnome.org/accounts/profile/trsk](https://extensions.gnome.org/accounts/profile/trsk){:target="_blank"}
 - Trsk's Linuxen (~2011 Linux blog): [https://trskslinuxen.tarasiuk.me](https://trskslinuxen.tarasiuk.me){:target="_blank"}
