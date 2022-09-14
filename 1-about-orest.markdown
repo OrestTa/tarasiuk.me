@@ -19,9 +19,11 @@ I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dan
 
 ## Speaking
 
-- [ETHWarsaw](https://www.ethwarsaw.dev/){:target="_blank"}: [Intro to scaling Ethereum with rollups and zero-knowledge proofs](https://www.youtube.com/watch?v=B9SGnCTZud0&t=23246s){:target="_blank"}
+- [ETHWarsaw](https://www.ethwarsaw.dev/){:target="_blank"}: 
+  - [Intro to scaling Ethereum with rollups and zero-knowledge proofs](https://www.youtube.com/watch?v=B9SGnCTZud0&t=23246s){:target="_blank"}, 
+  - [ZK scaling solutions (panel)](https://twitter.com/ETHWarsaw/status/1564246753653710849){:target="_blank"}
 - [BanklessDAO](https://www.bankless.community/){:target="_blank"}: [Scroll's testnet pre-announcement at ETHBarcelona](https://twitter.com/banklessDAO/status/1559230832598032384){:target="_blank"}
-- [FuruRadio](https://twitter.com/furucombo){:target="_blank"}: [layer 2 scaling solutions: A panel](https://twitter.com/furucombo/status/1558017306655326208){:target="_blank"}
+- [FuruRadio](https://twitter.com/furucombo){:target="_blank"}: [Layer 2 scaling solutions (panel)](https://twitter.com/furucombo/status/1558017306655326208){:target="_blank"}
 - [Polish Berlin Tech](http://polishberlintech.com/){:target="_blank"}, [CDTM](https://www.cdtm.de/){:target="_blank"} et al.: All things founding a startup...
 
 
