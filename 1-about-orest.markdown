@@ -53,6 +53,7 @@ I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dan
 
 ## AKA
 
+- Orest Ta
 - OrestTa
 - otrsk
 - trsk
