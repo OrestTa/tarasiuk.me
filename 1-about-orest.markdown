@@ -14,7 +14,7 @@ My name is Orest. I’m a computer scientist working in crypto.
 
 - Managing [Dessert Ventures](https://dessertventures.com/?ref=tarasiuk.me/about-orest){:target="_blank"}. Dessert Ventures provides freelance tech consulting and product development services.
 
-I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dance.
+I'm also into good coffee, ski touring, horse-riding, motorcycling, and blues and balfolk dance.
 
 
 ## Speaking
