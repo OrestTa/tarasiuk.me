@@ -20,7 +20,7 @@ I'm also into ski touring, horse-riding, motorcycling, and blues and balfolk dan
 ## Speaking
 
 - ETHVietnam: [Intro to scaling Ethereum with rollups and zero-knowledge proofs](https://youtu.be/hxnVGWPv7Hg?t=1951){:target="_blank"}
-- ETHGathering Barcelona: [L2 security (panel)](https://www.youtube.com/watch?v=9Bd7S1rRyGw){:target="_blank"}
+- ETHGathering Barcelona: [L2 security (panel)](https://www.youtube.com/watch?v=tR6avMeIMhw){:target="_blank"}
 - ETHWarsaw: 
   - [Quick intro to scaling Ethereum with rollups and zero-knowledge proofs](https://www.youtube.com/watch?v=B9SGnCTZud0&t=23246s){:target="_blank"}
   - [ZK scaling solutions (panel)](https://twitter.com/ETHWarsaw/status/1564246753653710849){:target="_blank"}
