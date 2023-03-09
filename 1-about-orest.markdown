@@ -19,6 +19,7 @@ I'm also into good coffee, ski touring, horse-riding, motorcycling, and blues an
 
 ## Speaking
 
+- ETHDenver: [Another intro to scaling Ethereum, or why DevEx should be boring](https://www.youtube.com/watch?v=KSaKmYHH_9o){:target="_blank"}
 - ETHVietnam: [Intro to scaling Ethereum with rollups and zero-knowledge proofs](https://youtu.be/hxnVGWPv7Hg?t=1951){:target="_blank"}
 - ETHGathering Barcelona: [L2 security (panel)](https://www.youtube.com/watch?v=tR6avMeIMhw){:target="_blank"}
 - ETHWarsaw: 
