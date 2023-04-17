@@ -19,17 +19,18 @@ I'm also into good coffee, ski touring, horse-riding, motorcycling, and blues an
 
 ## Speaking
 
-- ETHDenver: [Another intro to scaling Ethereum, or why DevEx should be boring](https://www.youtube.com/watch?v=KSaKmYHH_9o){:target="_blank"}
+- ETHDenver: 
+  - [Why DevEx should be boring](https://www.youtube.com/watch?v=KSaKmYHH_9o){:target="_blank"}
+  - [Decentralization & resilience (panel)](https://www.youtube.com/watch?v=r9nB_RaPDpA){:target="_blank"}
 - ETHVietnam: [Intro to scaling Ethereum with rollups and zero-knowledge proofs](https://youtu.be/hxnVGWPv7Hg?t=1951){:target="_blank"}
 - ETHGathering Barcelona: [L2 security (panel)](https://www.youtube.com/watch?v=tR6avMeIMhw){:target="_blank"}
 - ETHWarsaw: 
-  - [Quick intro to scaling Ethereum with rollups and zero-knowledge proofs](https://www.youtube.com/watch?v=B9SGnCTZud0&t=23246s){:target="_blank"}
+  - [Quick intro to scaling Ethereum](https://www.youtube.com/watch?v=B9SGnCTZud0&t=23246s){:target="_blank"}
   - [ZK scaling solutions (panel)](https://twitter.com/ETHWarsaw/status/1564246753653710849){:target="_blank"}
 - BanklessDAO: [Scroll's testnet pre-announcement at ETHBarcelona](https://twitter.com/banklessDAO/status/1559230832598032384){:target="_blank"}
 - FuruRadio: [Layer 2 scaling solutions (panel)](https://twitter.com/furucombo/status/1558017306655326208){:target="_blank"}
-- Podróż po web3: [Rozwiązania zero knowledge w warstwie 2 Ethereum](https://youtu.be/1GT5TfEMhAk){:target="_blank"}
-- Crypto Wild: [Programista ze Scroll o świecie zkEVM. Czy mamy miejsce na kolejny rollup?](https://www.youtube.com/watch?v=y3HMl2Oq5ao){:target="_blank"}
-- [Polish Berlin Tech](http://polishberlintech.com/){:target="_blank"}, [CDTM](https://www.cdtm.de/){:target="_blank"} et al.: All things founding a startup...
+- [Polish] Podróż po web3: [Rozwiązania zero knowledge w warstwie 2 Ethereum](https://youtu.be/1GT5TfEMhAk){:target="_blank"}
+- [Polish] Crypto Wild: [Scroll o zkEVM. Czy mamy miejsce na kolejny rollup?](https://www.youtube.com/watch?v=y3HMl2Oq5ao){:target="_blank"}
 
 
 ## Web
