@@ -4,7 +4,7 @@ title: Igor Tarasiuk
 permalink: /about-igor
 ---
 
-My name is Igor. Fun fact: I'm doing my baccalaureate now.
+My name is Igor. I'm a computer science student.
 
 ## Web
 
