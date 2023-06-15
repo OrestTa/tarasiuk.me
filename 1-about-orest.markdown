@@ -38,7 +38,7 @@ I'm also into good coffee, ski touring, horse-riding, motorcycling, and blues an
 - Twitter: [https://twitter.com/OrestTa](https://twitter.com/OrestTa){:target="_blank"}
 - GitHub: [https://github.com/OrestTa](https://github.com/OrestTa){:target="_blank"}
 - LinkedIn: [https://linkedin.com/in/OrestTa](https://linkedin.com/in/OrestTa){:target="_blank"}
-- Discord: `OrestTa#3489`
+- Discord: `OrestTa`
 
 
 ## Project Archive
