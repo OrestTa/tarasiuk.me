@@ -12,5 +12,5 @@ My name is Igor. I’m a computer science student, front-end programmer with som
 
 ## Projects
 
-- Front-end for https://wesprzyj.mlyn.org/
-- Keeping up to date Multiple Calendars Selector extension : https://chrome.google.com/webstore/detail/multiple-calendars-select/dlfbgdklfofchbhpeimkpepfldhkpojn
+- Front-end for [https://wesprzyj.mlyn.org](https://wesprzyj.mlyn.org/){:target="_blank"}
+- Keeping up to date Multiple Calendars Selector extension: [https://chrome.google.com/webstore/detail/multiple-calendars-select](https://chrome.google.com/webstore/detail/multiple-calendars-select/dlfbgdklfofchbhpeimkpepfldhkpojn){:target="_blank"}
