@@ -6,7 +6,9 @@ permalink: /about-orest
 
 My name is Orest. I’m a computer scientist working in crypto. 
 
-- Currently at [Scroll](https://scroll.io){:target="_blank"}. Scroll is building a bytecode-level zkEVM (zero-knowledge-proof-based rollup with EVM compatibility) to scale the Ethereum blockchain. Running [zkWarsaw](https://www.zkwarsaw.dev/){:target="_blank"}.
+- Currently at [Scroll](https://scroll.io){:target="_blank"}. Scroll is building a bytecode-level zkEVM (zero-knowledge-proof-based rollup with EVM compatibility) to scale the Ethereum blockchain.
+
+- Running [zkWarsaw](https://www.zkwarsaw.dev/){:target="_blank"}. zkWarsaw is a Warsaw community around zero-knowledge proofs organising lectures and workshops for researchers, hackers, and builders.
 
 - Co-founded [Cara Care](https://cara.care){:target="_blank"}. Cara empowers individuals suffering from chronic digestive diseases to live a better life.
 
@@ -14,7 +16,7 @@ My name is Orest. I’m a computer scientist working in crypto.
 
 - Managing [Dessert Ventures](https://dessertventures.com/?ref=tarasiuk.me/about-orest){:target="_blank"}. Dessert Ventures provides freelance tech consulting and product development services.
 
-I'm also into good coffee, ski touring, horse-riding, motorcycling, and blues and balfolk dance.
+I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and blues and balfolk dance.
 
 
 ## Speaking
