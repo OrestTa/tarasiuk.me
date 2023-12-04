@@ -4,11 +4,11 @@ title: Orest Tarasiuk
 permalink: /about-orest
 ---
 
-My name is Orest. I’m a computer scientist working in crypto. 
-
-- Currently at [Scroll](https://scroll.io){:target="_blank"}. Scroll is building a bytecode-level zkEVM (zero-knowledge-proof-based rollup with EVM compatibility) to scale the Ethereum blockchain.
+My name is Orest. I’m an old-school-ish computer scientist currently working in crypto. 
 
 - Running [zkWarsaw](https://www.zkwarsaw.dev/){:target="_blank"}. zkWarsaw is a Warsaw community around zero-knowledge proofs organising lectures and workshops for researchers, hackers, and builders.
+
+- Worked as engineer at [Scroll](https://scroll.io){:target="_blank"}. Scroll is building a bytecode-level zkEVM (zero-knowledge-proof-based rollup with EVM compatibility) to scale the Ethereum blockchain.
 
 - Co-founded [Cara Care](https://cara.care){:target="_blank"}. Cara empowers individuals suffering from chronic digestive diseases to live a better life.
 
@@ -21,12 +21,13 @@ I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and 
 
 ## Speaking
 
+- ETHWarsaw 2023: [Recent progress in solving Ethereum scaling challenges (panel)](https://www.youtube.com/watch?v=FiqGXK01GoI){:target="_blank"}
 - ETHDenver: 
   - [Why DevEx should be boring](https://www.youtube.com/watch?v=KSaKmYHH_9o){:target="_blank"}
   - [Decentralization & resilience (panel)](https://www.youtube.com/watch?v=r9nB_RaPDpA){:target="_blank"}
 - ETHVietnam: [Intro to scaling Ethereum with rollups and zero-knowledge proofs](https://youtu.be/hxnVGWPv7Hg?t=1951){:target="_blank"}
 - ETHGathering Barcelona: [L2 security (panel)](https://www.youtube.com/watch?v=tR6avMeIMhw){:target="_blank"}
-- ETHWarsaw: 
+- ETHWarsaw 2022: 
   - [Quick intro to scaling Ethereum](https://www.youtube.com/watch?v=B9SGnCTZud0&t=23246s){:target="_blank"}
   - [ZK scaling solutions (panel)](https://twitter.com/ETHWarsaw/status/1564246753653710849){:target="_blank"}
 - BanklessDAO: [Scroll's testnet pre-announcement at ETHBarcelona](https://twitter.com/banklessDAO/status/1559230832598032384){:target="_blank"}
