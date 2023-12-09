@@ -41,6 +41,7 @@ I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and 
 - Twitter: [https://twitter.com/OrestTa](https://twitter.com/OrestTa){:target="_blank"}
 - GitHub: [https://github.com/OrestTa](https://github.com/OrestTa){:target="_blank"}
 - LinkedIn: [https://linkedin.com/in/OrestTa](https://linkedin.com/in/OrestTa){:target="_blank"}
+- HackMD: [https://hackmd.io/@OrestTa](https://hackmd.io/@OrestTa){:target="_blank"}
 - Discord: `OrestTa`
 
 
