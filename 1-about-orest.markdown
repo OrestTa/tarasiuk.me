@@ -21,22 +21,22 @@ I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and 
 
 ## Speaking
 
-- Ed Frost: [Beginner-friendly context on scaling Ethereum with zk (interview)](https://www.understandingrecruitment.com/knowledge-hub/video/absolutely-zero-knowledge-podcast-episode-3-orest-tarasiuk){:target="_blank"}
-- Devconnect Istanbul 2023: [Rebuilding trust in crypto (interview)](https://www.supermoonstation.com/post/a-conversation-with-computer-scientist-orest){:target="_blank"}
-- ETHWarsaw 2023: [Recent progress in solving Ethereum scaling challenges (panel)](https://www.youtube.com/watch?v=FiqGXK01GoI){:target="_blank"}
-- Flipside: [An update on zk proofs (panel)](https://twitter.com/flipsidecrypto/status/1661050981088481283){:target="_blank"}
+- Ed Frost: [Beginner-friendly context on scaling Ethereum with zk](https://www.understandingrecruitment.com/knowledge-hub/video/absolutely-zero-knowledge-podcast-episode-3-orest-tarasiuk){:target="_blank"} (interview)
+- Devconnect Istanbul 2023: [Rebuilding trust in crypto](https://www.supermoonstation.com/post/a-conversation-with-computer-scientist-orest){:target="_blank"} (interview)
+- ETHWarsaw 2023: [Recent progress in solving Ethereum scaling challenges](https://www.youtube.com/watch?v=FiqGXK01GoI){:target="_blank"} (panel)
+- Flipside: [An update on zk proofs](https://twitter.com/flipsidecrypto/status/1661050981088481283){:target="_blank"} (panel)
 - ETHDenver: 
   - [Why DevEx should be boring](https://www.youtube.com/watch?v=KSaKmYHH_9o){:target="_blank"}
-  - [Decentralization & resilience (panel)](https://www.youtube.com/watch?v=r9nB_RaPDpA){:target="_blank"}
+  - [Decentralization & resilience)](https://www.youtube.com/watch?v=r9nB_RaPDpA){:target="_blank"} (panel)
 - ETHVietnam: [Intro to scaling Ethereum with rollups and zero-knowledge proofs](https://youtu.be/hxnVGWPv7Hg?t=1951){:target="_blank"}
-- ETHGathering Barcelona: [L2 security (panel)](https://www.youtube.com/watch?v=tR6avMeIMhw){:target="_blank"}
+- ETHGathering Barcelona: [L2 security)](https://www.youtube.com/watch?v=tR6avMeIMhw){:target="_blank"} (panel)
 - ETHWarsaw 2022: 
   - [Quick intro to scaling Ethereum](https://www.youtube.com/watch?v=B9SGnCTZud0&t=23246s){:target="_blank"}
-  - [ZK scaling solutions (panel)](https://twitter.com/ETHWarsaw/status/1564246753653710849){:target="_blank"}
-- BanklessDAO: [Scroll's testnet pre-announcement at ETHBarcelona](https://twitter.com/banklessDAO/status/1559230832598032384){:target="_blank"}
-- FuruRadio: [Layer 2 scaling solutions (panel)](https://twitter.com/furucombo/status/1558017306655326208){:target="_blank"}
-- [Polish] Podróż po web3: [Rozwiązania zero knowledge w warstwie 2 Ethereum](https://youtu.be/1GT5TfEMhAk){:target="_blank"}
-- [Polish] Crypto Wild: [Scroll o zkEVM. Czy mamy miejsce na kolejny rollup?](https://www.youtube.com/watch?v=y3HMl2Oq5ao){:target="_blank"}
+  - [ZK scaling solutions](https://twitter.com/ETHWarsaw/status/1564246753653710849){:target="_blank"} (panel)
+- BanklessDAO: [Scroll's testnet pre-announcement at ETHBarcelona](https://twitter.com/banklessDAO/status/1559230832598032384){:target="_blank"} (interview)
+- FuruRadio: [Layer 2 scaling solutions](https://twitter.com/furucombo/status/1558017306655326208){:target="_blank"} (panel)
+- [Polish] Podróż po web3: [Rozwiązania zero knowledge w warstwie 2 Ethereum](https://youtu.be/1GT5TfEMhAk){:target="_blank"} (interview)
+- [Polish] Crypto Wild: [Scroll o zkEVM. Czy mamy miejsce na kolejny rollup?](https://www.youtube.com/watch?v=y3HMl2Oq5ao){:target="_blank"} (interview)
 
 
 ## Web
