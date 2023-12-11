@@ -27,9 +27,9 @@ I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and 
 - Flipside: [An update on zk proofs](https://twitter.com/flipsidecrypto/status/1661050981088481283){:target="_blank"} (panel)
 - ETHDenver: 
   - [Why DevEx should be boring](https://www.youtube.com/watch?v=KSaKmYHH_9o){:target="_blank"}
-  - [Decentralization & resilience)](https://www.youtube.com/watch?v=r9nB_RaPDpA){:target="_blank"} (panel)
+  - [Decentralization & resilience](https://www.youtube.com/watch?v=r9nB_RaPDpA){:target="_blank"} (panel)
 - ETHVietnam: [Intro to scaling Ethereum with rollups and zero-knowledge proofs](https://youtu.be/hxnVGWPv7Hg?t=1951){:target="_blank"}
-- ETHGathering Barcelona: [L2 security)](https://www.youtube.com/watch?v=tR6avMeIMhw){:target="_blank"} (panel)
+- ETHGathering Barcelona: [L2 security](https://www.youtube.com/watch?v=tR6avMeIMhw){:target="_blank"} (panel)
 - ETHWarsaw 2022: 
   - [Quick intro to scaling Ethereum](https://www.youtube.com/watch?v=B9SGnCTZud0&t=23246s){:target="_blank"}
   - [ZK scaling solutions](https://twitter.com/ETHWarsaw/status/1564246753653710849){:target="_blank"} (panel)
