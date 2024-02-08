@@ -4,7 +4,7 @@ title: Orest Tarasiuk
 permalink: /about-orest
 ---
 
-My name is Orest. I’m an old-school-ish computer scientist currently working in crypto. 
+My name is Orest. I’m an old-school-ish computer scientist currently in crypto and ideating towards co-founding a new startup.
 
 - Running [zkWarsaw](https://www.zkwarsaw.dev/){:target="_blank"}. zkWarsaw is a Warsaw community around zero-knowledge proofs organising lectures and workshops for researchers, hackers, and builders.
 
@@ -14,7 +14,7 @@ My name is Orest. I’m an old-school-ish computer scientist currently working i
 
 - Co-founded [Knit](https://sites.google.com/view/knitvideo/?ref=tarasiuk.me/about-orest){:target="_blank"}. Knit's app lets you tighten your organisation through video-based networking events.
 
-- Managing [Dessert Ventures](https://dessertventures.com/?ref=tarasiuk.me/about-orest){:target="_blank"}. Dessert Ventures provides freelance tech consulting and product development services.
+- Occasionally manages [Dessert Ventures](https://dessertventures.com/?ref=tarasiuk.me/about-orest){:target="_blank"}. Dessert Ventures provides freelance tech consulting and product development services.
 
 I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and blues and balfolk dance.
 
