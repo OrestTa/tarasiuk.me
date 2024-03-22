@@ -4,6 +4,8 @@ title: Orest Tarasiuk
 permalink: /about-orest
 ---
 
+<img src="./pfp-orest.jpg" width="175" height="175" align="right">
+
 My name is Orest. I’m an old-school-ish computer scientist currently in crypto and ideating towards co-founding a new startup.
 
 - Running [zkWarsaw](https://www.zkwarsaw.dev/){:target="_blank"}. zkWarsaw is a Warsaw community around zero-knowledge proofs organising lectures and workshops for researchers, hackers, and builders.
@@ -42,6 +44,7 @@ I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and 
 ## Web
 
 - Twitter: [https://twitter.com/OrestTa](https://twitter.com/OrestTa){:target="_blank"}
+- Farcaster: [https://warpcast.com/Orest](https://warpcast.com/Orest){:target="_blank"}
 - GitHub: [https://github.com/OrestTa](https://github.com/OrestTa){:target="_blank"}
 - LinkedIn: [https://linkedin.com/in/OrestTa](https://linkedin.com/in/OrestTa){:target="_blank"}
 - HackMD: [https://hackmd.io/@OrestTa](https://hackmd.io/@OrestTa){:target="_blank"}
@@ -50,6 +53,9 @@ I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and 
 
 ## Project Archive
 
+- ETHGlobal: [https://ethglobal.com/showcase/fairarbooors-uq81v](https://ethglobal.com/showcase/fairarbooors-uq81v){:target="_blank"}
+- Devfolio: [https://devfolio.co/@Orest](https://devfolio.co/@Orest){:target="_blank"}
+- Devpost: [https://devpost.com/OrestTa](https://devpost.com/OrestTa){:target="_blank"}
 - Gnome: [https://extensions.gnome.org/accounts/profile/trsk](https://extensions.gnome.org/accounts/profile/trsk){:target="_blank"}
 - Trsk's Linuxen (~2011 Linux blog): [https://trskslinuxen.tarasiuk.me](https://trskslinuxen.tarasiuk.me){:target="_blank"}
 - Mur Myśli (~2007 personal blog): [https://murmysli.tarasiuk.me](https://murmysli.tarasiuk.me){:target="_blank"}
