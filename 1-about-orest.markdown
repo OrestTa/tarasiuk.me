@@ -4,7 +4,7 @@ title: Orest Tarasiuk
 permalink: /about-orest
 ---
 
-![Orest](./pfp-orest.jpg){: height="175px" width="175px" style="float:right; padding:8px" }
+![Orest](./pfp-orest.jpg){: height="175px" width="175px" style="float:right; padding:16px" }
 
 My name is Orest. I’m an old-school-ish computer scientist currently in crypto and ideating towards co-founding a new startup.
 
