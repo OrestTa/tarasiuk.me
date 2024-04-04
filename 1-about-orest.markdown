@@ -56,6 +56,7 @@ I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and 
 - ETHGlobal: [https://ethglobal.com/showcase/fairarbooors-uq81v](https://ethglobal.com/showcase/fairarbooors-uq81v){:target="_blank"}
 - Devfolio: [https://devfolio.co/@Orest](https://devfolio.co/@Orest){:target="_blank"}
 - Devpost: [https://devpost.com/OrestTa](https://devpost.com/OrestTa){:target="_blank"}
+- Launchpad: [https://launchpad.net/~orestta](https://launchpad.net/~orestta){:target="_blank"}
 - Gnome: [https://extensions.gnome.org/accounts/profile/trsk](https://extensions.gnome.org/accounts/profile/trsk){:target="_blank"}
 - Trsk's Linuxen (~2011 Linux blog): [https://trskslinuxen.tarasiuk.me](https://trskslinuxen.tarasiuk.me){:target="_blank"}
 - Mur Myśli (~2007 personal blog): [https://murmysli.tarasiuk.me](https://murmysli.tarasiuk.me){:target="_blank"}
