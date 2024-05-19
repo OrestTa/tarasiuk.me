@@ -6,28 +6,28 @@ permalink: /about-orest
 
 ![Orest](./pfp-orest.jpg){: height="175px" width="175px" style="float:right; padding-left:16px" }
 
-My name is Orest. I’m an old-school-ish computer scientist currently in crypto and ideating towards co-founding a new startup.
+My name is Orest. I’m a computer scientist. I'm currently building something new, in crypto. Background:
 
 - Running [zkWarsaw](https://www.zkwarsaw.dev/){:target="_blank"}. zkWarsaw is a Warsaw community around zero-knowledge proofs organising lectures and workshops for researchers, hackers, and builders.
 
 - Worked as engineer at [Scroll](https://scroll.io){:target="_blank"}. Scroll is building a bytecode-level zkEVM (zero-knowledge-proof-based rollup with EVM compatibility) to scale the Ethereum blockchain.
 
-- Co-founded [Cara Care](https://cara.care){:target="_blank"}. Cara empowers individuals suffering from chronic digestive diseases to live a better life.
+- Co-founded [Cara Care](https://cara.care){:target="_blank"}. Cara uses technology to empower individuals suffering from chronic digestive diseases to live a better life.
 
 - Co-founded [Knit](https://sites.google.com/view/knitvideo/?ref=tarasiuk.me/about-orest){:target="_blank"}. Knit's app lets you tighten your organisation through video-based networking events.
-
-- Occasionally manages [Dessert Ventures](https://dessertventures.com/?ref=tarasiuk.me/about-orest){:target="_blank"}. Dessert Ventures provides freelance tech consulting and product development services.
 
 I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and blues and balfolk dance.
 
 
 ## Speaking
 
+- ETHDam 2024 & zkWarsaw: [TEEs, or On Accepting Compromises](https://www.youtube.com/watch?v=lZvGhYVXBJw){:target="_blank"}
+- ETHDenver 2024 FastLane: [The state of ZK and Ethereum scaling](https://www.youtube.com/watch?v=WIoMxsaXHnE){:target="_blank"}
 - Ed Frost: [Beginner-friendly context on scaling Ethereum with ZK](https://www.understandingrecruitment.com/knowledge-hub/video/absolutely-zero-knowledge-podcast-episode-3-orest-tarasiuk){:target="_blank"} (interview)
 - Devconnect Istanbul 2023: [Rebuilding trust in crypto](https://www.supermoonstation.com/post/a-conversation-with-computer-scientist-orest){:target="_blank"} (interview)
 - ETHWarsaw 2023: [Recent progress in solving Ethereum scaling challenges](https://www.youtube.com/watch?v=FiqGXK01GoI){:target="_blank"} (panel)
 - Flipside: [An update on ZKP](https://twitter.com/flipsidecrypto/status/1661050981088481283){:target="_blank"} (panel)
-- ETHDenver: 
+- ETHDenver 2023: 
   - [Why DevEx should be boring](https://www.youtube.com/watch?v=KSaKmYHH_9o){:target="_blank"}
   - [Decentralization & resilience](https://www.youtube.com/watch?v=r9nB_RaPDpA){:target="_blank"} (panel)
 - ETHVietnam: [Intro to scaling Ethereum with rollups and zero-knowledge proofs](https://youtu.be/hxnVGWPv7Hg?t=1951){:target="_blank"}
