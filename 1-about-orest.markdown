@@ -6,9 +6,11 @@ permalink: /about-orest
 
 ![Orest](./pfp-orest.jpg){: height="175px" width="175px" style="float:right; padding-left:16px" }
 
-My name is Orest. I’m a computer scientist. I'm currently building something new, in crypto. Background:
+My name is Orest. I’m a computer scientist. My current work is centred around Ethereum, TEE and ZKP. I have co-founded and am building [t1](https://t1protocol.com){:target="_blank"}, a protocol for real-time proof generation designed to unify Ethereum.
 
-- Running [zkWarsaw](https://www.zkwarsaw.dev/){:target="_blank"}. zkWarsaw is a Warsaw community around zero-knowledge proofs organising lectures and workshops for researchers, hackers, and builders.
+Background:
+
+- Co-founded [zkWarsaw](https://www.zkwarsaw.dev/){:target="_blank"}. zkWarsaw is a Warsaw community around zero-knowledge proofs organising lectures and workshops for researchers, hackers, and builders.
 
 - Worked as engineer at [Scroll](https://scroll.io){:target="_blank"}. Scroll is building a bytecode-level zkEVM (zero-knowledge-proof-based rollup with EVM compatibility) to scale the Ethereum blockchain.
 
