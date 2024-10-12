@@ -6,7 +6,9 @@ permalink: /about-orest
 
 ![Orest](./pfp-orest.jpg){: height="175px" width="175px" style="float:right; padding-left:16px" }
 
-My name is Orest. I’m a computer scientist. My current work is centred around Ethereum, TEE and ZKP. I have co-founded and am building [**t1 protocol** aka 𝚝𝟷](https://t1protocol.com){:target="_blank"}, a rollup that enables instant settlement to unify Ethereum and the rollup ecosystem.
+My name is Orest. I’m a computer scientist. 
+
+My current work is centred around Ethereum, TEE and ZKP. I have co-founded and am building [**t1&nbsp;protocol**&nbsp;aka&nbsp;𝚝𝟷](https://t1protocol.com){:target="_blank"}, a rollup that enables instant settlement to unify Ethereum and the rollup ecosystem.
 
 Background:
 
