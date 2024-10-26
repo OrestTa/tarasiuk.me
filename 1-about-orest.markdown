@@ -25,7 +25,8 @@ I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and 
 
 ## Speaking
 
-- Verifiable Summit 2024: [Unifying Ethereum via Real-Time Proofs](https://youtu.be/3S35kxmexDQ){:target="_blank"}
+- ETHWarsaw 2024: [Unifying Ethereum via Real-Time Proofs...](https://youtu.be/5TnvgNLKwiA){:target="_blank"}
+- Verifiable Summit 2024: [...Made Possible Today Thanks to TEEs](https://youtu.be/3S35kxmexDQ){:target="_blank"}
 - ETHDam 2024 & zkWarsaw: [TEEs, or On Accepting Compromises](https://www.youtube.com/watch?v=lZvGhYVXBJw){:target="_blank"}
 - ETHDenver 2024 FastLane: [The state of ZK and Ethereum scaling](https://www.youtube.com/watch?v=WIoMxsaXHnE){:target="_blank"}
 - Ed Frost: [Beginner-friendly context on scaling Ethereum with ZK](https://www.understandingrecruitment.com/knowledge-hub/video/absolutely-zero-knowledge-podcast-episode-3-orest-tarasiuk){:target="_blank"} (interview)
