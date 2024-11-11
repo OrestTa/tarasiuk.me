@@ -25,6 +25,7 @@ I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and 
 
 ## Speaking
 
+- ETHGlobal Pragma SF: [The Rollup Fragmentation Problem: Unifying Ethereum](https://youtu.be/kZ5UncN0OaY){:target="_blank"}
 - ETHWarsaw 2024: [Unifying Ethereum via Real-Time Proofs...](https://youtu.be/5TnvgNLKwiA){:target="_blank"}
 - Verifiable Summit 2024: [...Made Possible Today Thanks to TEEs](https://youtu.be/3S35kxmexDQ){:target="_blank"}
 - ETHDam 2024 & zkWarsaw: [TEEs, or On Accepting Compromises](https://www.youtube.com/watch?v=lZvGhYVXBJw){:target="_blank"}
