@@ -25,6 +25,7 @@ I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and 
 
 ## Ethereum Talks
 
+- Composable Podcast: [Are TEEs even real? Combined with AVS and ZKP](https://x.com/composablepod/status/1921975497740661227){:target="_blank"}
 - zkWarsaw Meetup #19: [The Rollup Fragmentation Problem: Unifying Ethereum](https://youtu.be/RK4Gp3HR_Wk){:target="_blank"}
 - ETHGlobal Pragma SF: [The Rollup Fragmentation Problem: Unifying Ethereum](https://youtu.be/kZ5UncN0OaY){:target="_blank"}
 - ETHWarsaw 2024: [Unifying Ethereum via Real-Time Proofs...](https://youtu.be/5TnvgNLKwiA){:target="_blank"}
