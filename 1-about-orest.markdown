@@ -25,6 +25,7 @@ I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and 
 
 ## Ethereum Talks
 
+- Vivi in the Valley: [Orest's Journey: Founding t1 to Bring RTP to Ethereum](https://x.com/Vivi_Valley/status/1938478089845284987){:target="_blank"}
 - ZuBerlin L2 Interop Days: [Making Real-Time Proving Possible Today](https://x.com/donnoh_eth/status/1934531982014493160){:target="_blank"}
 - [Pragma Prague](https://www.youtube.com/watch?app=desktop&v=kFcRf6C3ikQ&list=PLXzKMXK2aHh7vLS72NelQ2dOx2VgPNxJZ){:target="_blank"} & [ETHPrague](https://www.youtube.com/watch?v=R0AK6rCpoVs&list=PLkCRcxMT8qhZZC1ZcjuSu80FYHppongXo){:target="_blank"}: How to Make Real Time Proving Possible Today—and Why
 - Composable Podcast: [Are TEEs even real? Combined with AVS and ZKP](https://x.com/composablepod/status/1921975497740661227){:target="_blank"}
