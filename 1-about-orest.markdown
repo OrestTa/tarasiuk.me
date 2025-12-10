@@ -26,6 +26,8 @@ I'm also into good (drip!) coffee, ski touring, horse-riding, motorcycling, and 
 ## Ethereum Talks
 
 - Devconnect Buenos Aires 2025: [Cross-chain apps enabled by t1 real-time proving](https://youtu.be/hLZGUSkRusE){:target="_blank"}
+- Frontier Forum: [Pod, t1, Space Computer—Building Usable Infra for a Trustless World](https://youtu.be/W4Aylh24zSY){:target="_blank"} (panel)
+- TEE.Salon Buenos Aires 2025: [Securing TEE rollups with AVS and ZKP](https://www.youtube.com/live/0-EaQ3R4kEo?si=9aawHZd9oEnWW1vq&t=2698){:target="_blank"}
 - ETHWarsaw 2025: [Real-Time Proving the L1 and _Existing_ Rollups](https://youtu.be/c7N9BkfazxM){:target="_blank"}
 - Vivi in the Valley: [Orest's Journey: Founding t1 to Bring RTP to Ethereum](https://x.com/Vivi_Valley/status/1938478089845284987){:target="_blank"}
 - ZuBerlin L2 Interop Days: [Making Real-Time Proving Possible Today](https://x.com/donnoh_eth/status/1934531982014493160){:target="_blank"}
